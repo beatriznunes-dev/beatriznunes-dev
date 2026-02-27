@@ -6,8 +6,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/beatriz-n-47369522b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
+</div>
+
+<div align="center">
+  📩 Email: <a href="mailto:beatriznunnes.d@gmail.com">beatriznunnes.d@gmail.com</a>
 </div>
 
 ###
